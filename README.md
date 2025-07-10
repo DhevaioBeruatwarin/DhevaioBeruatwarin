@@ -21,7 +21,3 @@
 
 ---
 
-### 📫 Let's Connect
-<p align="left">
-  <a href="mailto:dhevaio@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" alt="email" height="20" width="20" /></a>
-</p>
