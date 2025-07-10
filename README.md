@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Dhevaio</h1>
-<h3 align="center">Informatics Student at Universitas Sanata Dharma</h3>
 
 - 🎓 I’m currently studying **Informatics** at **Sanata Dharma University**
 
