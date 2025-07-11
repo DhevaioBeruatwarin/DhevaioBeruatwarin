@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Dhevaio</h1>
 
-- 🎓 I’m currently studying **Informatics** at **Sanata Dharma University**
+- I’m currently studying **Informatics** at **Sanata Dharma University**
 
-- 🔍 I love learning **new things**, especially in tech and development
+- I love learning **new things**, especially in tech and development
 
-- 💻 I enjoy **coding**, building projects, and solving logical problems
+- I enjoy **coding**, building projects, and solving logical problems
 
-- 🌱 I’m currently exploring **Laravel**, **PHP**, **html**, **CSS** and **Web Development**
+- I’m currently exploring **Laravel**, **PHP**, **html**, **CSS** and **Web Development**
 
-- 📫 You can reach me at **zdhevaio@gmail.com**
+-  You can reach me at **zdhevaio@gmail.com**
 
-- ⚡ Fun fact: **i love swimming and playing music😄**
+- Fun fact: **i love swimming and playing music 😄**
 
 ---
 
