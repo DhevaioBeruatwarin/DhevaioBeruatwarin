@@ -20,6 +20,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/DhevaioBeruatwarin/DhevaioBeruatwarin/output/snake.svg" alt="Snake animation" />
-
 ###
