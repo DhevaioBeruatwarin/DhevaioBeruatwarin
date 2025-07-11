@@ -1,23 +1,40 @@
 <h1 align="center">Hi 👋, I'm Dhevaio</h1>
 
-- I’m currently studying **Informatics** at **Sanata Dharma University**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DhevaioBeruatwarin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-- I love learning **new things**, especially in tech and development
+###
 
-- I enjoy **coding**, building projects, and solving logical problems
+<h5 align="center">My Social Media</h5>
 
-- I’m currently exploring **Laravel**, **PHP**, **html**, **CSS** and **Web Development**
+###
 
--  You can reach me at **zdhevaio@gmail.com**
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+</div>
 
-- Fun fact: **i love swimming and playing music 😄**
+###
 
----
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="45" alt="laravel logo"  />
+  <img width="109" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo"  />
+  <img width="109" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" alt="php logo"  />
+  <img width="109" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode logo"  />
+  <img width="109" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo"  />
+</div>
 
-### 🛠️ Languages and Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,git,vscode" />
-</p>
+###
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DhevaioBeruatwarin/DhevaioBeruatwarin/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DhevaioBeruatwarin/DhevaioBeruatwarin/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DhevaioBeruatwarin/DhevaioBeruatwarin/output/pacman-contribution-graph.svg">
+</picture>
 
+###
